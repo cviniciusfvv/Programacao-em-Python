@@ -1,5 +1,5 @@
 # Programação em Python - Senai
 
-Docente: Omero
+Docente: Oscar Meira
 
 Aluno: Carlos Vinicius

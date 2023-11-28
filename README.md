@@ -2,4 +2,4 @@
 
 Docente: Oscar Meira
 
-Aluno: Carlos Vinicius
+Discente: Carlos Vinicius

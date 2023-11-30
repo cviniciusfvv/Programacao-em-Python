@@ -1,7 +1,0 @@
-Elemento (Geral): grid__StyledGrid-sc-1man2hx-0 iFeuoP src__GridItem-sc-122lblh-0 gGJHBq
-
-Elemento (Específico): col__StyledCol-sc-1snw5v3-0 jGlQWu src__ColGridItem-sc-122lblh-1 cJnBan
-
-Texto Descrisão: product-name__Name-sc-1jrnqy1-0 kYncIC
-
-Texto Valor: src__Text-sc-154pg0p-0 price__PromotionalPrice-sc-i1illp-1 BCJl price-info__ListPriceWithMargin-sc-z0kkvc-2 juBAtS

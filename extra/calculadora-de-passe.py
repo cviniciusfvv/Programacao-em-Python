@@ -1,15 +1,12 @@
 import math
-
 while True:
     op = int(input("Qual opção você quer: 1 - saldo viagem, 2 - viagem saldo, 0 - sair: "))
-
     if op == 0:
         print("Saindo do programa. Até mais!")
         break  # Encerra o loop
     if op == 1:  # saldo viagem
         while True:
-            tipop = int(input("Digite 1 para passe comum, 2 para passe estudante médio/técnico, 3 passe estudante universitario, 0 - sair: "))
-            
+            tipop = int(input("Digite 1 para passe comum, 2 para passe estudante médio/técnico, 3 passe estudante universitario, 0 - sair: "))  
             if tipop == 0:
                 print("Saindo do programa. Até mais!")
                 break  # Encerra o loop interno
@@ -32,7 +29,6 @@ while True:
     elif op == 2:
         while True:
             tipop = int(input("Digite 1 para passe comum, 2 para passe estudante médio/técnico, 3 passe estudante universitario, 0 - sair: "))
-
             if tipop == 0:
                 print("Saindo do programa. Até mais!")
                 break  # Encerra o loop interno

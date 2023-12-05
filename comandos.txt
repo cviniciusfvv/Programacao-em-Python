@@ -1,9 +1,79 @@
 pip install --upgrade nbformat
 pip install --upgrade notebook
+pip install --upgrade python
 
+NumPy:
+pip install numpy
+
+Pandas:
 pip install pandas
-pip install lxml
-pip install plotly
 
-import plotly.express as go ou import plotly.express as px
+Matplotlib:
+pip install matplotlib
+
+Seaborn
+pip install seaborn
+
+Scikit-learn:
+pip install scikit-learn
+
+TensorFlow:
+pip install tensorflow
+
+PyTorch:
+pip install torch
+
+Django:
+pip install django
+
+Flask:
+pip install flask
+
+Requests:
+pip install requests
+
+Beautiful Soup:
+pip install beautifulsoup4
+
+SQLAlchemy:
+pip install sqlalchemy
+
+Django Rest Framework:
+pip install djangorestframework
+
+
+# Exemplo de importação para NumPy
+import numpy as np
+
+# Exemplo de importação para Pandas
 import pandas as pd
+
+# Exemplo de importação para Matplotlib
+import matplotlib.pyplot as plt
+
+# Exemplo de importação para Seaborn
+import seaborn as sns
+
+# Exemplo de importação para Scikit-learn
+from sklearn import svm
+
+# Exemplo de importação para TensorFlow
+import tensorflow as tf
+
+# Exemplo de importação para PyTorch
+import torch
+
+# Exemplo de importação para Flask
+from flask import Flask
+
+# Exemplo de importação para Requests
+import requests
+
+# Exemplo de importação para Beautiful Soup
+from bs4 import BeautifulSoup
+
+# Exemplo de importação para SQLAlchemy
+from sqlalchemy import create_engine
+
+# Exemplo de importação para Django Rest Framework
+from rest_framework import serializers

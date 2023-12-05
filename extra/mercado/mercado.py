@@ -8,7 +8,7 @@ while True:
 
     for produto_numero in range(1, num_produtos + 1):
         preco_produto = float(input(f"Produto {produto_numero}: R$ "))
-        print(f"Valor R${preco_produto:.2f} do produto {produto_numero}")
+        print(f"produto {produto_numero} custou R${preco_produto:.2f}")
         total_compra += preco_produto
 
     if total_compra >= 100 and total_compra < 150:

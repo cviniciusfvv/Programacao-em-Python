@@ -1,0 +1,9 @@
+pip install --upgrade nbformat
+pip install --upgrade notebook
+
+pip install pandas
+pip install lxml
+pip install plotly
+
+import plotly.express as go ou import plotly.express as px
+import pandas as pd

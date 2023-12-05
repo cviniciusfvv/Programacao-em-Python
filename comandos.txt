@@ -80,6 +80,7 @@ from rest_framework import serializers
 
 
 
+
 ## instalção auto-py-to-exe
 
 pip install auto-py-to-exe

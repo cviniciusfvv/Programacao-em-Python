@@ -2,83 +2,69 @@ pip install --upgrade nbformat
 pip install --upgrade notebook
 pip install --upgrade python
 
-NumPy:
+#NumPy:
 pip install numpy
+# Exemplo de importação para NumPy
+import numpy as np
 
 Pandas:
 pip install pandas
+# Exemplo de importação para Pandas
+import pandas as pd#
 
 Matplotlib:
 pip install matplotlib
+# Exemplo de importação para Matplotlib
+import matplotlib.pyplot as plt
 
 Seaborn
 pip install seaborn
+# Exemplo de importação para Seaborn
+import seaborn as sns
 
 Scikit-learn:
 pip install scikit-learn
+# Exemplo de importação para Scikit-learn
+from sklearn import svm
 
 TensorFlow:
 pip install tensorflow
+# Exemplo de importação para TensorFlow
+import tensorflow as tf
 
 PyTorch:
 pip install torch
+# Exemplo de importação para PyTorch
+import torch
 
 Django:
 pip install django
 
+
 Flask:
 pip install flask
-
-Requests:
-pip install requests
-
-Beautiful Soup:
-pip install beautifulsoup4
-
-SQLAlchemy:
-pip install sqlalchemy
-
-Django Rest Framework:
-pip install djangorestframework
-
-
-# Exemplo de importação para NumPy
-import numpy as np
-
-# Exemplo de importação para Pandas
-import pandas as pd
-
-# Exemplo de importação para Matplotlib
-import matplotlib.pyplot as plt
-
-# Exemplo de importação para Seaborn
-import seaborn as sns
-
-# Exemplo de importação para Scikit-learn
-from sklearn import svm
-
-# Exemplo de importação para TensorFlow
-import tensorflow as tf
-
-# Exemplo de importação para PyTorch
-import torch
-
 # Exemplo de importação para Flask
 from flask import Flask
 
+Requests:
+pip install requests
 # Exemplo de importação para Requests
 import requests
 
+Beautiful Soup:
+pip install beautifulsoup4
 # Exemplo de importação para Beautiful Soup
 from bs4 import BeautifulSoup
 
+SQLAlchemy:
+pip install sqlalchemy
 # Exemplo de importação para SQLAlchemy
 from sqlalchemy import create_engine
 
+Django Rest Framework:
+pip install djangorestframework
 # Exemplo de importação para Django Rest Framework
 from rest_framework import serializers
-
-
 
 
 ## instalção auto-py-to-exe

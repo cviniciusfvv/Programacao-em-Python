@@ -3,6 +3,8 @@ pip install --upgrade notebook
 pip install --upgrade python
 python.exe -m pip install --upgrade pip
 
+"versão do python" python -c “import sys; print(sys.version)”
+
 #NumPy:
 pip install numpy
 # Exemplo de importação para NumPy

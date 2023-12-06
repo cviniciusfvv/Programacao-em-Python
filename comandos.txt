@@ -15,6 +15,7 @@ Seaborn
 pip install seaborn
 
 Scikit-learn:
+pip install scikit-learn
 
 TensorFlow:
 pip install tensorflow

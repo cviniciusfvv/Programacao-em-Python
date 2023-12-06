@@ -74,6 +74,39 @@ pip install lxml
 # Exemplo de importação para lxml
 from lxml import html
 
+IA para python
+
+TensorFlow: ##incluso Keras
+pip install tensorflow
+import tensorflow as tf
+from tensorflow import keras
+
+PyTorch:
+pip install torch torchvision
+import torch
+import torchvision
+
+Scikit-learn:
+pip install scikit-learn
+import sklearn
+
+NLTK:
+pip install nltk
+import nltk
+
+OpenCV:
+pip install opencv-python
+import cv2
+
+Spacy:
+pip install spacy
+import spacy
+
+Gensim:
+pip install gensim
+import gensim
+
+
 ## instalção auto-py-to-exe
 # site: https://pypi.org/project/auto-py-to-exe/#description
 # video: https://www.youtube.com/watch?v=eg8h7MFLZGE&lc=UgyzNJrbYuJpyQWl5eN4AaABAg

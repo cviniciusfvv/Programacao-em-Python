@@ -69,6 +69,7 @@ from rest_framework import serializers
 
 
 ## instalção auto-py-to-exe
+# site: https://pypi.org/project/auto-py-to-exe/#description
 
 pip install auto-py-to-exe
 auto-py-to-exe

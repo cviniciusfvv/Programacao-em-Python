@@ -67,6 +67,10 @@ pip install djangorestframework
 # Exemplo de importação para Django Rest Framework
 from rest_framework import serializers
 
+biblioteca lxml
+pip install lxml
+# Exemplo de importação para lxml
+from lxml import html
 
 ## instalção auto-py-to-exe
 # site: https://pypi.org/project/auto-py-to-exe/#description

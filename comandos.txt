@@ -1,6 +1,7 @@
 pip install --upgrade nbformat
 pip install --upgrade notebook
 pip install --upgrade python
+python.exe -m pip install --upgrade pip
 
 #NumPy:
 pip install numpy

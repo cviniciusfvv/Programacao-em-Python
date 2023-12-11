@@ -43,7 +43,6 @@ import torch
 Django:
 pip install django
 
-
 Flask:
 pip install flask
 # Exemplo de importação para Flask

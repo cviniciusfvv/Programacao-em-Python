@@ -1,7 +1,7 @@
 pip install --upgrade nbformat
 pip install --upgrade notebook
 pip install --upgrade python
-python.exe -m pip install --upgrade pip
+"python.exe -m pip install --upgrade pip"
 
 "versão do python" python -c “import sys; print(sys.version)”
 
@@ -73,6 +73,11 @@ pip install lxml
 # Exemplo de importação para lxml
 from lxml import html
 
+biblioteca selenium
+pip install selenium
+# Exemplo de importação para selenium
+from selenium import webdriver
+
 IA para python
 
 TensorFlow: ##incluso Keras
@@ -104,6 +109,7 @@ import spacy
 Gensim:
 pip install gensim
 import gensim
+
 
 
 ## instalção auto-py-to-exe

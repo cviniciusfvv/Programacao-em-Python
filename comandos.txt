@@ -2,8 +2,9 @@ pip install --upgrade nbformat
 pip install --upgrade notebook
 pip install --upgrade python
 python.exe -m pip install --upgrade pip
+## fazer o upgrade python, jupyter e o pip
 
-"versão do python" python -c “import sys; print(sys.version)”
+versão do python" python -c “import sys; print(sys.version) #ver a versão do python
 
 #NumPy:
 pip install numpy
@@ -118,7 +119,7 @@ import gensim
 
 pip install auto-py-to-exe
 auto-py-to-exe
-
+# transformar os arquivos PY em EXE
 
 usado em aula:
 

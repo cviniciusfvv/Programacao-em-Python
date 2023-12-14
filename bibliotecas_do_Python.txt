@@ -6,6 +6,7 @@ python.exe -m pip install --upgrade pip
 
 versão do python" python -c “import sys; print(sys.version) #ver a versão do python
 
+## bibliotecas python
 #NumPy:
 pip install numpy
 # Exemplo de importação para NumPy
@@ -78,6 +79,10 @@ biblioteca selenium
 pip install selenium
 # Exemplo de importação para selenium
 from selenium import webdriver
+
+
+
+
 
 IA para python
 

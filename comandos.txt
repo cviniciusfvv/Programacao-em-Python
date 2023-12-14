@@ -128,3 +128,7 @@ pip install selenium
 # Exemplo de importação para selenium
 from selenium import webdriver
 
+biblioteca pyautogui
+pip install pyautogui
+# Exemplo de importação para selenium
+import pyautogui

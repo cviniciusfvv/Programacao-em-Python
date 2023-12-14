@@ -81,35 +81,36 @@ from selenium import webdriver
 
 IA para python
 
-TensorFlow: ##incluso Keras
+# TensorFlow (com Keras incluso)
 pip install tensorflow
 import tensorflow as tf
 from tensorflow import keras
 
-PyTorch:
+# PyTorch
 pip install torch torchvision
 import torch
 import torchvision
 
-Scikit-learn:
+# Scikit-learn
 pip install scikit-learn
 import sklearn
 
-NLTK:
+# NLTK
 pip install nltk
 import nltk
 
-OpenCV:
+# OpenCV
 pip install opencv-python
 import cv2
 
-Spacy:
+# Spacy
 pip install spacy
 import spacy
 
-Gensim:
+# Gensim
 pip install gensim
 import gensim
+
 
 
 

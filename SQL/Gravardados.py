@@ -1,9 +1,9 @@
-name=input("Digite seu nome:")
-adress=input("Digite seu endereço:")
+name = input("Digite seu nome:")
+address = input("Digite seu endereço:")
 
 import mysql.connector
 
-mydb = mssql.connector.connect(
+mydb = mysql.connector.connect(
     host="localhost",
     user="root",
     password="",
@@ -13,7 +13,7 @@ mydb = mssql.connector.connect(
 mycursor = mydb.cursor()
 
 sql = "INSERT INTO clientes (name, address) VALUES (%s, %s)"
-val = (name, adress)
+val = (name, address)  # Fixing the typo in the variable name
 mycursor.execute(sql, val)
 
 mydb.commit()

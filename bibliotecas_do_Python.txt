@@ -138,3 +138,7 @@ biblioteca pyautogui
 pip install pyautogui
 # Exemplo de importação para selenium
 import pyautogui
+
+biblioteca mysql
+pip install mysql.connector
+import mysql.connector

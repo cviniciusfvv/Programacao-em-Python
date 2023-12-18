@@ -1,0 +1,2 @@
+XAMPP - para criar o servidor
+HeidiSQL - administrar o SQL

@@ -8,7 +8,7 @@ mydb = mysql.connector.connect(
     user="root",
     password="",
     database="db_python"
-)
+);
 
 mycursor = mydb.cursor()
 

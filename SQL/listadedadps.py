@@ -14,3 +14,4 @@ mycursor.execute(query)
 result = mycursor.fetchall()
 for row in result:
     print (f"Cliente: {row}")
+    #

@@ -1,7 +1,7 @@
 name = input("Digite seu nome:")
 address = input("Digite seu endereço:")
 
-import mysql.connector
+import mysql.connector as mydb
 
 mydb = mysql.connector.connect(
     host="localhost",

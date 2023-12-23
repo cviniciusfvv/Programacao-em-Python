@@ -1,5 +1,5 @@
 ## Programação em Python - Senai
 
 Instuição de ensino - SENAI "Prof. Dr. Euryclides de Jesus Zerbini"
-Docente: Oscar Meira
-Discente: Carlos Vinicius
+\n Docente: Oscar Meira
+\n Discente: Carlos Vinicius

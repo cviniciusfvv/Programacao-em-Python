@@ -23,6 +23,7 @@ while True:
     print(f"Total: R$ {total_compra:.2f}")
     dinheiro_cliente = float(input("Dinheiro: R$ "))
     print(f"Cliente deu R$: {dinheiro_cliente:.2f}")
+    print(f"desconto total R$: {desconto:.2f}")
     print(f"Total com desconto R$: {total_compra_com_desconto:.2f}")
 
     if dinheiro_cliente >= total_compra_com_desconto:

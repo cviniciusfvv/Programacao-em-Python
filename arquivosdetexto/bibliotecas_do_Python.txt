@@ -43,7 +43,7 @@ pip install torch
 import torch
 
 Django:
-pip install django
+"pip install django"
 
 Flask:
 pip install flask
